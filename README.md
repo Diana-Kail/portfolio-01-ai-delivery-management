@@ -28,6 +28,8 @@ At the same time, I added a separate **Data Validation** stage to the workflow. 
 
 ## Project Architecture
 
+![Workflow Architecture](screenshots/workflow.png)
+
 The workflow consists of the following nodes:
 
 1. **Code (JavaScript)** — provides the input data for analysis, including project information, teams, and workload.
@@ -59,6 +61,10 @@ The report I received by email contains the following sections:
 - **Cross-Project Observations** — findings identified by analysing several projects together.
 - **Data Limitations** — limitations and missing information in the input data that may affect the analysis results.
 
+
+![Management Report](screenshots/management_report.png)
+
 ## Project Outcome
 
 As a result, the manager receives a single, structured report that helps identify project problems, set priorities, and review recommendations for solving the identified issues.
+
